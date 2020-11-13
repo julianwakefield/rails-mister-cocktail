@@ -1,2 +1,0 @@
-class DoseController < ApplicationController
-end
